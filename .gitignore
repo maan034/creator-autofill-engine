@@ -1,0 +1,11 @@
+# Build directories
+build/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+Desktop.ini
